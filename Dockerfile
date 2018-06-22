@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM ubuntu:latest
 
 LABEL maintainer="sticnarf@gmail.com"
 
